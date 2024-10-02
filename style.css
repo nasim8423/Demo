@@ -33,3 +33,10 @@ nav{
     color: wheat;
     font-weight: 600;
 }
+
+button {
+    padding: 7px 20px;
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+}
